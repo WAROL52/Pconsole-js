@@ -1,4 +1,4 @@
-class Pconsole{
+class Pconsole{ 
     constructor(style={}){
         if(typeof style!=='object'){
             const c=new Pconsole
