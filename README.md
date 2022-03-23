@@ -26,4 +26,3 @@ console.log(...myLog)
 
 ```
 ## License
-> rolio
